@@ -1,0 +1,27 @@
+body{
+    background: #d2d2d2;
+    background-image: url("../src/onepiece.jpg");
+    background-size: auto 100vh;
+}
+.menu{
+    background-color: blanchedalmond;
+    
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+    color: #000;
+}
+.menu li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.site-subtitle,
+.site-title{
+    text-align: center;
+}
+.site-subtitle{
+    font-style: italic;
+}
